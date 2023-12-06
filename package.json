@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "workspaces": ["apps/*"],
+  "devDependencies": {
+    "nx": "17.1.3"
+  }
+}
